@@ -1,0 +1,10 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All rows preserve the same DeepSeek娘 identity, blue-white maid palette, long hair, physical-side bow, attached whale tail, proportions, and readable state motion with no visible clipping, holes, or forbidden effects.",
+  "review_warnings": [
+    "Accepted intermediate blind-review disagreement at 022.5 and 337.5.",
+    "Accepted intermediate blind vertical ambiguity at 067.5 and 112.5.",
+    "Continuity metric outlier 225->247.5 has no visible snap or scale pop."
+  ],
+  "repair_rows": []
+}
