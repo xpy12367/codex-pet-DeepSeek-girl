@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-final\\spritesheet-extended.webp",
+  "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\idle-fix-eval\\final-preserved-look\\spritesheet-extended.webp",
   "format": "WEBP",
   "mode": "RGBA",
   "columns": 8,
@@ -17,7 +17,7 @@
       "row": 0,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 16291,
+      "nontransparent_pixels": 15998,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -26,7 +26,7 @@
       "row": 0,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 16461,
+      "nontransparent_pixels": 15913,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -35,7 +35,7 @@
       "row": 0,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 14912,
+      "nontransparent_pixels": 15910,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -53,7 +53,7 @@
       "row": 0,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 14914,
+      "nontransparent_pixels": 15950,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -62,7 +62,7 @@
       "row": 0,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 16072,
+      "nontransparent_pixels": 15915,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },

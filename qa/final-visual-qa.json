@@ -1,11 +1,12 @@
 {
   "visual_qa": "pass",
-  "qa_note": "11 行身份、风格与比例一致；新版 idle 与 running/思考动作语义清晰，无裁切、碎片、跨格、突兀尺寸跳变、背景或特效。",
-  "direction_semantics": "16 方向顺时针连续，四个基准方向明确；中间方向仅有可接受的轻微盲测不确定性，无错象限或反转。",
-  "review_warnings": [
-    "接受 022.5/337.5 水平盲测分歧。",
-    "接受 067.5/112.5 垂直盲测模糊。",
-    "接受 225->247.5 与 337.5->000 连续性指标警告；视觉无明显跳变。"
-  ],
+  "qa_note": "六帧待机循环顺滑，鲸尾完整连续，头身脚底稳定、嘴巴无说话感且首尾衔接自然，其他动画行保持不变。",
+  "idle_metrics": {
+    "old_max_center_step_px": 8.18,
+    "new_max_center_step_px": 0.73,
+    "old_visible_area_range_px": 1453,
+    "new_visible_area_range_px": 92
+  },
+  "review_warnings": [],
   "repair_rows": []
 }
