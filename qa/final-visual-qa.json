@@ -1,10 +1,11 @@
 {
   "visual_qa": "pass",
-  "qa_note": "All rows preserve the same DeepSeek娘 identity, blue-white maid palette, long hair, physical-side bow, attached whale tail, proportions, and readable state motion with no visible clipping, holes, or forbidden effects.",
+  "qa_note": "11 行身份、风格与比例一致；新版 idle 与 running/思考动作语义清晰，无裁切、碎片、跨格、突兀尺寸跳变、背景或特效。",
+  "direction_semantics": "16 方向顺时针连续，四个基准方向明确；中间方向仅有可接受的轻微盲测不确定性，无错象限或反转。",
   "review_warnings": [
-    "Accepted intermediate blind-review disagreement at 022.5 and 337.5.",
-    "Accepted intermediate blind vertical ambiguity at 067.5 and 112.5.",
-    "Continuity metric outlier 225->247.5 has no visible snap or scale pop."
+    "接受 022.5/337.5 水平盲测分歧。",
+    "接受 067.5/112.5 垂直盲测模糊。",
+    "接受 225->247.5 与 337.5->000 连续性指标警告；视觉无明显跳变。"
   ],
   "repair_rows": []
 }

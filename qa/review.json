@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames",
+  "frames_root": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames",
   "states": [
     "idle",
     "running-right",
@@ -26,93 +26,93 @@
       "frames": [
         {
           "index": 0,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\idle\\00.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\idle\\00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16773,
+          "nontransparent_pixels": 16291,
           "bbox": [
-            26,
+            28,
             5,
-            165,
+            164,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 155
+          "chroma_adjacent_pixels": 146
         },
         {
           "index": 1,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\idle\\01.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\idle\\01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16751,
+          "nontransparent_pixels": 16461,
           "bbox": [
-            26,
+            29,
             5,
-            166,
+            163,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 161
+          "chroma_adjacent_pixels": 168
         },
         {
           "index": 2,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\idle\\02.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\idle\\02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16721,
+          "nontransparent_pixels": 14912,
           "bbox": [
-            27,
+            38,
             5,
-            165,
+            153,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 143
+          "chroma_adjacent_pixels": 159
         },
         {
           "index": 3,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\idle\\03.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\idle\\03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16700,
+          "nontransparent_pixels": 15937,
           "bbox": [
-            26,
+            32,
             5,
-            165,
+            159,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 148
+          "chroma_adjacent_pixels": 207
         },
         {
           "index": 4,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\idle\\04.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\idle\\04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16721,
+          "nontransparent_pixels": 14914,
           "bbox": [
-            26,
+            38,
             5,
-            166,
+            154,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 126
+          "chroma_adjacent_pixels": 168
         },
         {
           "index": 5,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\idle\\05.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\idle\\05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16682,
+          "nontransparent_pixels": 16072,
           "bbox": [
-            26,
+            33,
             5,
-            165,
+            159,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 186
+          "chroma_adjacent_pixels": 182
         }
       ]
     },
@@ -127,7 +127,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running-right\\00.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running-right\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14638,
@@ -142,7 +142,7 @@
         },
         {
           "index": 1,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running-right\\01.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running-right\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15299,
@@ -157,7 +157,7 @@
         },
         {
           "index": 2,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running-right\\02.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running-right\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14834,
@@ -172,7 +172,7 @@
         },
         {
           "index": 3,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running-right\\03.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running-right\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14801,
@@ -187,7 +187,7 @@
         },
         {
           "index": 4,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running-right\\04.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running-right\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14507,
@@ -202,7 +202,7 @@
         },
         {
           "index": 5,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running-right\\05.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running-right\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14847,
@@ -217,7 +217,7 @@
         },
         {
           "index": 6,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running-right\\06.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running-right\\06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14198,
@@ -232,7 +232,7 @@
         },
         {
           "index": 7,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running-right\\07.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running-right\\07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14051,
@@ -258,7 +258,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running-left\\00.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running-left\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15052,
@@ -273,7 +273,7 @@
         },
         {
           "index": 1,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running-left\\01.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running-left\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15707,
@@ -288,7 +288,7 @@
         },
         {
           "index": 2,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running-left\\02.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running-left\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15041,
@@ -303,7 +303,7 @@
         },
         {
           "index": 3,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running-left\\03.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running-left\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15356,
@@ -318,7 +318,7 @@
         },
         {
           "index": 4,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running-left\\04.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running-left\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14980,
@@ -333,7 +333,7 @@
         },
         {
           "index": 5,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running-left\\05.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running-left\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15851,
@@ -348,7 +348,7 @@
         },
         {
           "index": 6,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running-left\\06.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running-left\\06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14417,
@@ -363,7 +363,7 @@
         },
         {
           "index": 7,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running-left\\07.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running-left\\07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14290,
@@ -389,7 +389,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\waving\\00.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\waving\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16340,
@@ -404,7 +404,7 @@
         },
         {
           "index": 1,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\waving\\01.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\waving\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16424,
@@ -419,7 +419,7 @@
         },
         {
           "index": 2,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\waving\\02.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\waving\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16516,
@@ -434,7 +434,7 @@
         },
         {
           "index": 3,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\waving\\03.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\waving\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16514,
@@ -460,7 +460,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\jumping\\00.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\jumping\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18726,
@@ -475,7 +475,7 @@
         },
         {
           "index": 1,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\jumping\\01.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\jumping\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18757,
@@ -490,7 +490,7 @@
         },
         {
           "index": 2,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\jumping\\02.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\jumping\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19285,
@@ -505,7 +505,7 @@
         },
         {
           "index": 3,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\jumping\\03.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\jumping\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19830,
@@ -520,7 +520,7 @@
         },
         {
           "index": 4,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\jumping\\04.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\jumping\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18087,
@@ -546,7 +546,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\failed\\00.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\failed\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16565,
@@ -561,7 +561,7 @@
         },
         {
           "index": 1,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\failed\\01.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\failed\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16449,
@@ -576,7 +576,7 @@
         },
         {
           "index": 2,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\failed\\02.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\failed\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16318,
@@ -591,7 +591,7 @@
         },
         {
           "index": 3,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\failed\\03.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\failed\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18297,
@@ -606,7 +606,7 @@
         },
         {
           "index": 4,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\failed\\04.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\failed\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17445,
@@ -621,7 +621,7 @@
         },
         {
           "index": 5,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\failed\\05.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\failed\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16527,
@@ -636,7 +636,7 @@
         },
         {
           "index": 6,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\failed\\06.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\failed\\06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16235,
@@ -651,7 +651,7 @@
         },
         {
           "index": 7,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\failed\\07.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\failed\\07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16361,
@@ -677,7 +677,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\waiting\\00.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\waiting\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16165,
@@ -692,7 +692,7 @@
         },
         {
           "index": 1,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\waiting\\01.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\waiting\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16210,
@@ -707,7 +707,7 @@
         },
         {
           "index": 2,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\waiting\\02.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\waiting\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15916,
@@ -722,7 +722,7 @@
         },
         {
           "index": 3,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\waiting\\03.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\waiting\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16121,
@@ -737,7 +737,7 @@
         },
         {
           "index": 4,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\waiting\\04.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\waiting\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16123,
@@ -752,7 +752,7 @@
         },
         {
           "index": 5,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\waiting\\05.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\waiting\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16101,
@@ -778,93 +778,93 @@
       "frames": [
         {
           "index": 0,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running\\00.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running\\00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17028,
+          "nontransparent_pixels": 15474,
           "bbox": [
-            22,
+            36,
             5,
-            170,
+            155,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 123
+          "chroma_adjacent_pixels": 236
         },
         {
           "index": 1,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running\\01.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running\\01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16027,
+          "nontransparent_pixels": 15252,
           "bbox": [
-            31,
+            40,
             5,
-            160,
+            151,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 141
+          "chroma_adjacent_pixels": 263
         },
         {
           "index": 2,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running\\02.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running\\02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16043,
+          "nontransparent_pixels": 14884,
           "bbox": [
-            34,
+            40,
             5,
-            158,
+            151,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 128
+          "chroma_adjacent_pixels": 250
         },
         {
           "index": 3,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running\\03.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running\\03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17262,
+          "nontransparent_pixels": 15399,
           "bbox": [
-            26,
+            40,
             5,
-            165,
+            152,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 142
+          "chroma_adjacent_pixels": 247
         },
         {
           "index": 4,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running\\04.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running\\04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16204,
+          "nontransparent_pixels": 15618,
           "bbox": [
-            30,
+            37,
             5,
-            162,
+            154,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 156
+          "chroma_adjacent_pixels": 282
         },
         {
           "index": 5,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\running\\05.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\running\\05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16976,
+          "nontransparent_pixels": 15517,
           "bbox": [
-            25,
+            37,
             5,
-            166,
+            154,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 129
+          "chroma_adjacent_pixels": 282
         }
       ]
     },
@@ -879,7 +879,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\review\\00.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\review\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16474,
@@ -894,7 +894,7 @@
         },
         {
           "index": 1,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\review\\01.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\review\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15988,
@@ -909,7 +909,7 @@
         },
         {
           "index": 2,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\review\\02.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\review\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16120,
@@ -924,7 +924,7 @@
         },
         {
           "index": 3,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\review\\03.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\review\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16749,
@@ -939,7 +939,7 @@
         },
         {
           "index": 4,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\review\\04.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\review\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16206,
@@ -954,7 +954,7 @@
         },
         {
           "index": 5,
-          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u5ba0\u7269\\deepseek-niang-pet-run\\frames\\review\\05.png",
+          "file": "F:\\OneDrive\\\u684c\u9762\\AI\\\u9879\u76ee\\\u5ba0\u7269\\deepseek-upgrade-staging\\evaluation-frames\\review\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16190,

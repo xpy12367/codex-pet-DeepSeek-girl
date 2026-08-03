@@ -1,15 +1,16 @@
 {
   "ok": true,
   "spriteVersionNumber": 2,
-  "run_dir": "F:\\OneDrive\\桌面\\AI\\宠物\\deepseek-niang-pet-run",
-  "spritesheet": "F:\\OneDrive\\桌面\\AI\\宠物\\deepseek-niang-pet-run\\final\\spritesheet-extended.webp",
-  "validation": "F:\\OneDrive\\桌面\\AI\\宠物\\deepseek-niang-pet-run\\final\\validation-extended.json",
-  "chroma_despill": "F:\\OneDrive\\桌面\\AI\\宠物\\deepseek-niang-pet-run\\qa\\chroma-despill-extended.json",
-  "contact_sheet": "F:\\OneDrive\\桌面\\AI\\宠物\\deepseek-niang-pet-run\\qa\\contact-sheet-extended.png",
-  "direction_sheet": "F:\\OneDrive\\桌面\\AI\\宠物\\deepseek-niang-pet-run\\qa\\look-directions.png",
-  "direction_semantics": "F:\\OneDrive\\桌面\\AI\\宠物\\deepseek-niang-pet-run\\qa\\direction-semantics.json",
-  "blind_direction_validation": "F:\\OneDrive\\桌面\\AI\\宠物\\deepseek-niang-pet-run\\qa\\direction-blind-validation.json",
-  "continuity": "F:\\OneDrive\\桌面\\AI\\宠物\\deepseek-niang-pet-run\\qa\\look-continuity.json",
-  "review": "F:\\OneDrive\\桌面\\AI\\宠物\\deepseek-niang-pet-run\\qa\\review.json",
-  "package": "F:\\OneDrive\\桌面\\AI\\宠物\\deepseek-niang-codex-pet"
+  "upgrade": "richer idle and thinking animations",
+  "run_dir": "F:/OneDrive/桌面/AI/项目/宠物/deepseek-niang-pet-run",
+  "spritesheet": "F:/OneDrive/桌面/AI/项目/宠物/deepseek-niang-codex-pet/spritesheet.webp",
+  "validation": "F:/OneDrive/桌面/AI/项目/宠物/deepseek-niang-codex-pet/qa/package-validation.json",
+  "chroma_despill": "F:/OneDrive/桌面/AI/项目/宠物/deepseek-niang-codex-pet/qa/chroma-despill-extended.json",
+  "contact_sheet": "F:/OneDrive/桌面/AI/项目/宠物/deepseek-niang-codex-pet/previews/contact-sheet.png",
+  "direction_sheet": "F:/OneDrive/桌面/AI/项目/宠物/deepseek-niang-codex-pet/previews/look-directions.png",
+  "direction_semantics": "F:/OneDrive/桌面/AI/项目/宠物/deepseek-niang-codex-pet/qa/direction-semantics.json",
+  "blind_direction_validation": "F:/OneDrive/桌面/AI/项目/宠物/deepseek-niang-codex-pet/qa/direction-blind-validation.json",
+  "continuity": "F:/OneDrive/桌面/AI/项目/宠物/deepseek-niang-codex-pet/qa/look-continuity.json",
+  "review": "F:/OneDrive/桌面/AI/项目/宠物/deepseek-niang-codex-pet/qa/review.json",
+  "installed_package": "C:/Users/ASUS/.codex/pets/deepseek"
 }
